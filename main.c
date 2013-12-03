@@ -3,7 +3,9 @@
 #include	<stdlib.h>
 
 
+/*	jejeje	*/
 int	main()
 {
+	printf("jejeje\n");
 	return	0;
 }
