@@ -4,6 +4,7 @@
 
 /*
 		hogehogehoge
+		jejeje
 */
 
 int	main()
