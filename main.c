@@ -2,6 +2,9 @@
 #include	<string.h>
 #include	<stdlib.h>
 
+/*
+		hogehogehoge
+*/
 
 int	main()
 {
